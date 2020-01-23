@@ -1,7 +1,7 @@
 /*********************************************************************************************************************
      **
      **  Program to insert into an AVL tree.
-     **  AVL tree is self balancing binary tree. Difference of height of left or right subtree
+     **  AVL tree is self balancing binary tree. Difference of height of left or right subtree {-1,0,1}
      **
      **  There are four different use cases to insert into AVL tree
 	 **     1. left left   - needs ones right rotation
